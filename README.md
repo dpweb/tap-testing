@@ -3,8 +3,7 @@ tap-testing
 
 Minimal JS testing
 
-The test frameworks are really sugary, that is, they really provide a thin layer of functionality over what is essentially
-just a comparison..  T/F on success of a test.    
+The test frameworks are really sugary, that is the *ratio* of useful functionality to pure name aliasing is low.  Testing is essentially just a comparison..  T/F on success of a test.    
 
 If you're unfamiliar with TAP, it's a text based protocol for testing.
 [About TAP](http://testanything.org/wiki/index.php/Main_Page)
